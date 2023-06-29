@@ -7,7 +7,7 @@ connie-publish: true
 This is an exemplar layout for a software guidebook , written following the template described by Simon
 Brown's [The software guidebook - A guide to documenting your software architecture](https://leanpub.com/documenting-software-architecture).
 
-If you are reading this on a Confluence wiki somewhere, the original source of this document is on [GitHub](https://github.com/jimmcslim/software-guidebook-examplar/blob/main/docs/guidebook/README.md).
+If you are reading this on a Confluence wiki somewhere, the original source of this document is on [GitHub](https://github.com/jimmcslim/software-guidebook-exemplar/blob/main/docs/guidebook/README.md).
 
 ## Table of Contents
 
