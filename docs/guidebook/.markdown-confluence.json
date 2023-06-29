@@ -1,0 +1,6 @@
+{
+    "confluenceBaseUrl": "<fill this in>",
+    "confluenceParentId": "<fill this in>",
+    "atlassianUserName": "<fill this in>",
+    "folderToPublish": "."
+}
