@@ -14,7 +14,7 @@ nav:
   - Software Architecture: 06-software-architecture/README.md
   - Code: 07-code/README.md
   - Data: 08-data/README.md
-  - Infrastructure Architecture: 09-infrastrcture-architecture/README.md
+  - Infrastructure Architecture: 09-infrastructure-architecture/README.md
   - Deployment: 10-deployment/README.md
   - Operation and Support: 11-operation-and-support/README.md
   - Development Environment: 12-development-environment/README.md
